@@ -3,6 +3,6 @@
 
 ## Tecnologias 🚀
 <ul>
-  <li> Html básico</li>
-  <li> CSS básico</li>
+  <li> Html básico ✅</li>
+  <li> CSS básico ✅</li>
 </ul>
